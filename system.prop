@@ -1,7 +1,4 @@
 # system.prop for vince
 
-# Project-Elixir
-org.elixir.device.name=Redmi 5 Plus
-
 # BPF
 ro.kernel.ebpf.supported=true
