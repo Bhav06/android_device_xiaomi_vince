@@ -60,7 +60,7 @@ TARGET_KERNEL_VERSION := 4.9
 
 # Use proton-clang
 TARGET_KERNEL_CLANG_COMPILE := true
-TARGET_KERNEL_CLANG_VERSION := proton
+#TARGET_KERNEL_CLANG_VERSION := proton
 #KERNEL_TOOLCHAIN_PATH := $(shell pwd)/prebuilts/clang/host/linux-x86/clang-11/bin/aarch64-linux-gnu-
 
 # GCC
