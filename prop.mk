@@ -320,7 +320,7 @@ ro.surface_flinger.running_without_sync_framework=true \
 ro.surface_flinger.use_content_detection_for_refresh_rate=true \
 ro.surface_flinger.set_display_power_timer_ms=10000 \
 ro.surface_flinger.set_touch_timer_ms=200 \
-ro.surface_flinger.set_idle_timer_ms=9000 \
+ro.surface_flinger.set_idle_timer_ms=1000 \
 ro.surface_flinger.wcg_composition_dataspace=143261696
 
 # SOC
